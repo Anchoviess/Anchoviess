@@ -1,11 +1,12 @@
-### Hi there 👋
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<!--
-**Anchoviess/Anchoviess** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://img.shields.io/badge/<CODE>-<Javascript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=B9BDC1)
+![](https://img.shields.io/badge/<CODE>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=87CEEB)
+![](https://img.shields.io/badge/<CODE>-<HTML>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=B9BDC1)
+![](https://img.shields.io/badge/<CODE>-<CSS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=87CEEB)
 
-Here are some ideas to get you started:
+I’m currently working on ...
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
