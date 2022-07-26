@@ -1,10 +1,12 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-![](https://img.shields.io/badge/<>-<Linkedin>&logoColor=blue-<blue>)
+![]()
+![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
 ![](https://img.shields.io/badge/<CODE>-<Javascript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=B9BDC1)
-![](https://img.shields.io/badge/<CODE>-<React>-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=87CEEB)
-![](https://img.shields.io/badge/<CODE>-<HTML>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=B9BDC1)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/<CODE>-<CSS>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=87CEEB)
+![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 I’m currently working on a web based music player that can play Nft Music on an evm compatible blockchain.
 
