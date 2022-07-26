@@ -22,7 +22,7 @@ I’m currently working on a web based music player that can play Nft Music on a
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-![Star Chart](https://starchart.cc/{Anchoviess}/{repo}.svg)
+![StarChart](https://starchart.cc/{Anchoviess}/{repo}.svg)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Anchoviess&layout=compact)
 
