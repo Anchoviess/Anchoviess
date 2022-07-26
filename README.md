@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![](https://img.shields.io/badge/<Linkedin>-<MESSAGE>-<blue>)
+![](https://img.shields.io/badge/<>-<Linkedin>-<blue>)
 ![](https://img.shields.io/badge/<CODE>-<Javascript>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=B9BDC1)
 ![](https://img.shields.io/badge/<CODE>-<React>-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=87CEEB)
 ![](https://img.shields.io/badge/<CODE>-<HTML>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=B9BDC1)
