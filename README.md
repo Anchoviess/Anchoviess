@@ -17,6 +17,7 @@ I’m currently working on a web based music player that can play Nft Music on a
 - 💬 Ask me about ...
 - 📫 How to reach me: anthonyledesma12@yahoo.com
 - ⚡ Fun fact: Frontend web developer that's into video, anime, music, & cars
+<img align="right" width="400" src="https://t3.ftcdn.net/jpg/02/94/88/90/360_F_294889083_LsUI84QGy4Vn7n4sJkGx1qzJuWzXWbkh.jpg">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
