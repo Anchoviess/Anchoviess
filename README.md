@@ -8,11 +8,11 @@
 I’m currently working on a web based music player that can play Nft Music on an evm compatible blockchain.
 
 - 🌱 I’m currently learning how to make Smart Contracts on Solidity that govern the behaviour of accounts within the Ethereum state, targeting the Ethereum Virtual Machine 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on React frontend projects
+- 🤔 I’m looking for help with  any projects involving django
 - 💬 Ask me about ...
 - 📫 How to reach me: anthonyledesma12@yahoo.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Frontend web developer that's into video, anime, 
 
 
 
