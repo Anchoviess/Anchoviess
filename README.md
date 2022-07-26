@@ -16,7 +16,7 @@ I’m currently working on a web based music player that can play Nft Music on a
 - 🤔 I’m looking for help with  any projects involving django
 - 💬 Ask me about ...
 - 📫 How to reach me: anthonyledesma12@yahoo.com
-- ⚡ Fun fact: Frontend web developer that's into video, anime
+- ⚡ Fun fact: Frontend web developer that's into video, anime, music, & cars
 
 
 
