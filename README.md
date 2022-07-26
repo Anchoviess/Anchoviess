@@ -19,10 +19,6 @@ I’m currently working on a web based music player that can play Nft Music on a
 - ⚡ Fun fact: Frontend web developer that's into video, anime
 
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-![StarChart](https://starchart.cc/{Anchoviess}/{repo}.svg)
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Anchoviess&layout=compact)
 
