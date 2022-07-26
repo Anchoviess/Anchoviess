@@ -1,5 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<hr/>
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -18,7 +19,7 @@ I’m currently working on a web based music player that can play Nft Music on a
 - 📫 How to reach me: anthonyledesma12@yahoo.com
 - ⚡ Fun fact: Frontend web developer that's into video, anime, music, & cars
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id
+
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Anchoviess&layout=compact)
 
