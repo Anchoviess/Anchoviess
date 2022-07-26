@@ -14,5 +14,8 @@ I’m currently working on a web based music player that can play Nft Music on a
 - 📫 How to reach me: anthonyledesma12@yahoo.com
 - ⚡ Fun fact: ...
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada
+<hr/>
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Anchoviess&theme=highcontrast&show_icons=true&count_private=true)
