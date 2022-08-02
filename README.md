@@ -22,7 +22,8 @@ I’m currently working on a web based music player that can play Nft Music on a
 <img width="400" alt="Screen Shot 2022-07-28 at 4 13 54 PM" src="https://user-images.githubusercontent.com/97990379/181654360-f6a84e49-71da-4787-8a4b-2e522c03c9a5.png">
 
 
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="anthony-ledesma-anthony" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/anthony-ledesma-anthony?trk=profile-badge">Anthony Ledesma</a></div>
+              
 
 
 
