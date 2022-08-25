@@ -11,7 +11,7 @@
 
 I’m currently working on a web based music player that can play Nft Music on an evm compatible blockchain.
 
-- 🌱 Making Smart Contracts on Solidity that govern the behaviour of accounts within the Ethereum state, targeting the Ethereum Virtual Machine 
+- 🌱 Making Smart Contracts on Solidity that govern the behaviour of accounts within the Ethereum state targeting the Ethereum Virtual Machine 
 - 👯 Lets collaborate on React frontend projects!
 - 🤔 I’m looking for help with any projects involving django. 
 - 📫 How to reach me: anthonyledesma12@yahoo.com
