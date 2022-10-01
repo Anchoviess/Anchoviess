@@ -29,4 +29,6 @@ I’m currently working on a web based music player that can play Nft Music on a
 
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://ko-fi.com/anthonyledesma36798#paypalModal)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anchoviess&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
